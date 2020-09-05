@@ -1,4 +1,4 @@
 #!/bin/bash
 #
 #
-uptime
+uptime && ls -la
